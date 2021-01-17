@@ -7,6 +7,8 @@
   * Python ( Tkinter )  
 
 - How to build  
+  * When you use pyinstaller, you will probably see binary file in dist folder
+
 ```
 pip install pyinstaller
 pyinstaller -w -F main.py
